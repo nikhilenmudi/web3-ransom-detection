@@ -69,6 +69,7 @@ web3-ransom-detection/
 ### Prerequisites
 - Node.js and npm installed.
 - MetaMask browser extension installed.
+- You will need some test tokens in your wallet. Use Alchemy or any other faucets to generate tokens
 
 ### Installation
 1. Clone the repository:
